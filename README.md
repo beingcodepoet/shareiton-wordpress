@@ -7,12 +7,12 @@ If you have any problems or queries, feel free to mail me at shan@beingcodepoet.
 
 ### Upcoming Features :- 
 
->> Different Color options
->> Alignment of social Icons
->> New 10+ Sharing Options
->> Beautiful Icons
+- Different Color options
+- Alignment of social Icons
+- New 10+ Sharing Options
+>> Beautiful Icon
 >> Sharing Counter
->> Stats 
+>> 
 and Lot's more! 
 
 These Features will be released each week respectively! 

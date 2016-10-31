@@ -10,9 +10,8 @@ If you have any problems or queries, feel free to mail me at shan@beingcodepoet.
 - Different Color options
 - Alignment of social Icons
 - New 10+ Sharing Options
->> Beautiful Icon
->> Sharing Counter
->> 
+- Beautiful Icon
+- Sharing Counter 
 and Lot's more! 
 
 These Features will be released each week respectively! 
